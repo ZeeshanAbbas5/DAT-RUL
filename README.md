@@ -1,3 +1,3 @@
 # DAT-RUL
 
-The code will be published after the papers are accepted!
+The code will be published after the paper is accepted! 
